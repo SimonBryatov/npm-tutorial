@@ -1,0 +1,14 @@
+{
+  "name": "@simonbryatov/npm_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "simonbryatov",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
